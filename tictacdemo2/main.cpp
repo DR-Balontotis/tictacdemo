@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-void prcharmap(char *ticktack0,char *ticktack1,char *ticktack2,char *ticktack3,char *ticktack4,char *ticktack5,char *ticktack6,char *ticktack7,char *ticktack8);
+void printmap(char *ticktack0,char *ticktack1,char *ticktack2,char *ticktack3,char *ticktack4,char *ticktack5,char *ticktack6,char *ticktack7,char *ticktack8);
 int winningcheck(char *ticctacc0,char *ticctacc1,char *ticctacc2,char *ticctacc3,char *ticctacc4,char *ticctacc5,char *ticctacc6,char *ticctacc7,char *ticctacc8);
 int takeinput(char *thickthack0,char *thickthack1,char *thickthack2,char *thickthack3,char *thickthack4,char *thickthack5,char *thickthack6,char *thickthack7,char *thickthack8);
 int closewinningcheck(char *thiccthacc0,char *thiccthacc1,char *thiccthacc2,char *thiccthacc3,char *thiccthacc4,char *thiccthacc5,char *thiccthacc6,char *thiccthacc7,char *thiccthacc8);
